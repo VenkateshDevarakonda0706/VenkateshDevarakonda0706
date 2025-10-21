@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Venkatesh 👋  
+### 👨‍💻 AI & ML Enthusiast | Flutter Developer | Big Data Learner
 
-<!--
-**VenkateshDevarakonda0706/VenkateshDevarakonda0706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about building intelligent applications that connect technology with human experience.
 
-Here are some ideas to get you started:
+🌱 Currently working on:  
+- Gesture-Based Number Recognition in Flutter  
+- Emotion Detection from Text (BERT-based NLP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me at: **venkatesh.devarakonda@gmail.com**
+
+---
+
+### 🧠 Skills
+- Python 🐍 | Java ☕ | Flutter 💙 | TensorFlow 🤖 | Scikit-learn 📊
+- Big Data (Hadoop, Hive, Spark) | SQL | Git & GitHub
+
+---
+
+### ⚡ GitHub Stats
+![Venkatesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=VenkateshDevarakonda0706&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkateshDevarakonda0706&layout=compact&theme=tokyonight)
+
+---
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Venkatesh-blue)](https://www.linkedin.com/in/venkateshdevarakonda/)
+[![Gmail](https://img.shields.io/badge/Gmail-venkatesh.devarakonda0706-red)](mailto:venkatesh.devarakonda0706@gmail.com)
