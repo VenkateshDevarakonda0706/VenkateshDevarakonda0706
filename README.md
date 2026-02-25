@@ -7,7 +7,7 @@
 - Gesture-Based Number Recognition in Flutter  
 - Emotion Detection from Text (BERT-based NLP)
 
-📫 Reach me at: **venkatesh.devarakonda@gmail.com**
+📫 Reach me at: **venkateshdevarakonda7777@gmail.com**
 
 ---
 
