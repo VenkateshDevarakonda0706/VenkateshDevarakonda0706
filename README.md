@@ -25,4 +25,4 @@
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Venkatesh-blue)](https://www.linkedin.com/in/venkateshdevarakonda/)
-[![Gmail](https://img.shields.io/badge/Gmail-venkatesh.devarakonda0706-red)](mailto:venkateshdevarakonda0706@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-venkateshdevarakonda0706-red)](mailto:venkateshdevarakonda0706@gmail.com)
